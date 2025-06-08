@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasith</h1>
-<h3 align="center">A passionate frontend web developer from Sri Lanka</h3>
+<h3 align="center">A passionate web developer from Sri Lanka</h3>
+
+<img src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasithavinda4&label=Profile%20views&color=0e75b6&style=flat" alt="sasithavinda4" /> </p>
 
