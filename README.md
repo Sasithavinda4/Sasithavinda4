@@ -4,7 +4,7 @@
 <img src = "https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasithavinda4&label=Profile%20views&color=0e75b6&style=flat" alt="sasithavinda4" /> </p>
-<!--
+
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Sasithavinda4.Sasithavinda4&" alt="visitor badge"/> </p>
 !-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasithavinda4" alt="sasithavinda4" /></a> </p>
