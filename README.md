@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **software engineering based projects**
 
-- 🌱 I’m currently learning **Node.js, Express & React.js**
+- 🌱 I’m currently learning **,Node.js, Express & React.js**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
